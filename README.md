@@ -24,7 +24,7 @@ $ git clone --recursive https://github.com/Quackster/Euclid
 ```
 $ git clone https://github.com/Quackster/Euclid
 $ git submodule update --init --recursive
-
+```
 
 # Images
 
