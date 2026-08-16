@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="ERROR">
+    <Appenders>
+        <ColorConsole name="console">
+            <PatternLayout pattern="|Gray|[|DarkGray|%date{yyyy-MM-dd HH:mm:ss,SSS}|Gray|] %level %logger - %message%n"/>
+        </ColorConsole>
+        <RollingFile name="file" fileName="server.log" filePattern="server.log.%i" append="true">
+            <PatternLayout pattern="%date{yyyy-MM-dd HH:mm:ss,SSS} [%thread] %level %logger - %message%n"/>
+            <Policies>
+                <SizeBasedTriggeringPolicy size="10 MB"/>
+            </Policies>
+            <DefaultRolloverStrategy max="5"/>
+        </RollingFile>
+    </Appenders>
+    <Loggers>
+        <Root level="trace">
+            <AppenderRef ref="console"/>
+            <AppenderRef ref="file"/>
+        </Root>
+    </Loggers>
+</Configuration>

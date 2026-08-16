@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: euclid.integration.ProtocolHarnessTest
+-------------------------------------------------------------------------------
+Tests run: 25, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 81.50 s -- in euclid.integration.ProtocolHarnessTest

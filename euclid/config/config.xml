@@ -1,0 +1,28 @@
+<configuration>
+   <mysql>
+      <hostname>localhost</hostname>
+      <username>root</username>
+      <password>password</password>
+      <database>euclid</database>
+      <port>3306</port>
+      <min_connections>5</min_connections>
+      <max_connections>10</max_connections>
+   </mysql>
+   <server>
+      <main>
+         <ip>127.0.0.1</ip>
+         <port>37120</port>
+      </main>
+      <private>
+         <ip>127.0.0.1</ip>
+         <port>25006</port>
+      </private>
+      <public>
+         <room>
+            <ip>127.0.0.1</ip>
+            <port>22009</port>
+            <room_id>1</room_id>
+         </room>
+      </public>
+   </server>
+</configuration>

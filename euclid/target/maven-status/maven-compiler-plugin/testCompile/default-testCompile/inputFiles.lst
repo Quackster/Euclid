@@ -1,0 +1,17 @@
+/opt/git/Euclid/euclid-java/euclid/src/test/java/euclid/integration/ProtocolHarnessTest.java
+/opt/git/Euclid/euclid-java/euclid/src/test/java/euclid/messages/MessageHandlerTest.java
+/opt/git/Euclid/euclid-java/euclid/src/test/java/euclid/util/DateUtilTest.java
+/opt/git/Euclid/euclid-java/euclid/src/test/java/euclid/util/RegisterUtilTest.java
+/opt/git/Euclid/euclid-java/euclid/src/test/java/euclid/util/ServerConfigTest.java
+/opt/git/Euclid/euclid-java/euclid/src/test/java/euclid/util/StringUtilTest.java
+/opt/git/Euclid/euclid-java/euclid/src/test/java/euclid/util/encryption/RC4Test.java
+/opt/git/Euclid/euclid-java/euclid/src/test/java/euclid/util/encryption/SecretKeyTest.java
+/opt/git/Euclid/euclid-java/euclid/src/test/java/euclid/util/extensions/ConcurrentDictionaryExtensionsTest.java
+/opt/git/Euclid/euclid-java/euclid/src/test/java/euclid/util/extensions/ConcurrentQueueExtensionsTest.java
+/opt/git/Euclid/euclid-java/euclid/src/test/java/euclid/util/extensions/DoubleExtensionsTest.java
+/opt/git/Euclid/euclid-java/euclid/src/test/java/euclid/util/extensions/EnumerableExtensionTest.java
+/opt/git/Euclid/euclid-java/euclid/src/test/java/euclid/util/extensions/ListExtensionsTest.java
+/opt/git/Euclid/euclid-java/euclid/src/test/java/euclid/util/extensions/LongExtensionsTest.java
+/opt/git/Euclid/euclid-java/euclid/src/test/java/euclid/util/extensions/StringExtensionsTest.java
+/opt/git/Euclid/euclid-java/euclid/src/test/java/euclid/util/specialised/Base64EncodingTest.java
+/opt/git/Euclid/euclid-java/euclid/src/test/java/euclid/util/specialised/WireEncodingTest.java
